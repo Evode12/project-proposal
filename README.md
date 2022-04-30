@@ -21,9 +21,7 @@ In technology of today we need various machines to perform many tasks easier. On
 
    #  BLOCK DIAGRAM
 
-
-
-
+![Capture](https://user-images.githubusercontent.com/104685258/166113506-0800df14-bff6-4988-9cf0-66bc4069cff2.JPG)
 
 
 # WORKING PRINCIPLE
@@ -55,11 +53,13 @@ delay(V2);
 
 # FRITZING CIRCUIT
  
+![image](https://user-images.githubusercontent.com/104685258/166113353-51d2de71-0af9-4c7f-9188-1fbbd6a6db8a.png)
 
 
 
 
 
 
-#CIRCUIT DRAWN IN PROTEUS
+# CIRCUIT DRAWN IN PROTEUS
  
+![image](https://user-images.githubusercontent.com/104685258/166113365-493b0a96-9618-4d82-a8d4-0623b054e88b.png)
